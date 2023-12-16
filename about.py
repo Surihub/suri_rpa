@@ -1,6 +1,4 @@
 import streamlit as st
-from datetime import datetime
-import requests
 
 def run():
     st.set_page_config(
