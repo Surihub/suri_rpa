@@ -4,7 +4,7 @@ import requests
 
 def run():
     st.set_page_config(
-        page_title="Welcome to RPA page",
+        page_title="Welcome to 숩 RPA",
         page_icon="👋",
         layout="wide"
     )
