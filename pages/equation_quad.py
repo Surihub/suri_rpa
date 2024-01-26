@@ -62,7 +62,7 @@ if st.button("문제 생성"):
     st.session_state.equation = equation
     solution = np.round(solution, 2)
     st.session_state.solution = solution
-    st.write(solution)
+    # st.write(solution)
 
 # 문제 제시
 if 'equation' in st.session_state:
