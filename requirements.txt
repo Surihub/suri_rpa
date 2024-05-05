@@ -2,3 +2,4 @@ streamlit
 kiwipiepy
 python-docx
 openai
+plotly
