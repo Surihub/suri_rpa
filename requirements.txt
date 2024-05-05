@@ -3,3 +3,4 @@ kiwipiepy
 python-docx
 openai
 plotly
+scipy
