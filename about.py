@@ -1,5 +1,6 @@
 import streamlit as st
 
+
 def run():
     st.set_page_config(
         page_title="Welcome to 숩 RPA",
@@ -13,7 +14,7 @@ def run():
         font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     }
     h1 {
-        color: #ff6347;
+        color: black;
     }
     .stMarkdown {
         color: #4f4f4f;
